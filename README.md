@@ -38,7 +38,7 @@ profile under construction..🛠⚙️<br>
 </ul>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vivianezzt&bg_color=0d0d0d&color=f165ad&line=ff91a4&point=ff93a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h2> ### My social networks</h2>
 
