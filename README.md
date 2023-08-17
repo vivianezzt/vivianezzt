@@ -14,8 +14,9 @@
 <p> 🎯✨I am currently 🎓👩🏻‍💻 studying Full Stack Web Development
 profile under construction..🛠⚙️<br>
     📍Juiz de Fora / MG <br>
-    Graduating in Systems Analysis and Development | IT Management<br>
-   ### Study platforms:
+    Graduating in Systems Analysis and Development <br>
+  
+## Study platforms:
 <ul>
     <li>
     <a href="https://cursos.onebitcode.com/auth/login?redirect=/" alt="onebitecode">OneBiteCode</a>
@@ -24,13 +25,7 @@ profile under construction..🛠⚙️<br>
     <a href="https://b7web.com.br/fullstack" alt="B7web">B7web</a>
     </li>
     <li>
-    <a href="https://cursos.alura.com.br/user/vivianesilvarc" alt="alura">Alura</a>
-    </li>
-    <li>
-    <a href="https://www.origamid.com" alt="origamid">Origamid</a>
-    </li>
-    <li>
-    <a href="https://www.udemy.com" alt="udemy">Udemy</a>
+    <a href="https://ebaconline.com.br/sale/outono" alt="alura">EBAC</a>
     </li>
     <li>
     <a href="https://devsuperior.com.br/cursos" alt="Devsuperior">Devsuperior</a>
@@ -40,7 +35,7 @@ profile under construction..🛠⚙️<br>
 
 
 
-<h2> ### My social networks</h2>
+## My social networks</h2>
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zztsilva)
@@ -51,53 +46,25 @@ profile under construction..🛠⚙️<br>
     
  
 
-
-<h3>### Operating systems I use...</h3> 
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
-<h3> ### Studying in this moment:
-    ## 💻 Technologies & Tools </h3>
-<p>
- <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/> 
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
- <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
- <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-</p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white})&nbsp; 
-![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp; 
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp; 
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp; 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; 
-
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+## Tecnologies
 
 
-    
- <h3> ## IDE'S </h3>
-   
- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp; 
-   
- ![Vscode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-thebadge&logo=visual%20studio&logoColor=white)&nbsp;
-
-
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br>
 
 <div align="center">
-<h2>Let's code!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 <div align="center">
