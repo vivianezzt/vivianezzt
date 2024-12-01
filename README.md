@@ -69,7 +69,9 @@ Olá! Meu nome é **Viviane**, uma desenvolvedora apaixonada por tecnologia, min
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
     <img align="center" alt="Styled-components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
+    <img align="center" alt="Prisma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
 </div>
+
 
 
 
