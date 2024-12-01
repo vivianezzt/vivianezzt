@@ -38,7 +38,6 @@ Olá! Meu nome é **Viviane**, uma desenvolvedora apaixonada por tecnologia, min
 - **DSMovie**: Catálogo de filmes integrado a APIs externas.  
 - **FWS Barber**: Plataforma para conectar barbearias e permitir agendamentos via WhatsApp.  
 
-## 🌐 My Social Networks
 
 ## 🌐 My Social Networks
 
