@@ -29,7 +29,7 @@ Olá! Meu nome é **Viviane**, uma desenvolvedora apaixonada por tecnologia, min
 
 ### 💡 **O Que Me Move**
 - Sou apaixonada por explorar novas tecnologias, criar soluções eficientes e colaborar em projetos que impactam positivamente a vida das pessoas.  
-- Atualmente, estou me especializando em desenvolvimento **fullstack** e buscando alcançar o nível de **desenvolvedora sênior**. 🚀  
+- Atualmente, estou me especializando em desenvolvimento **fullstack** 
 - Tenho interesse especial em **desenvolvimento fullstack** e adoro trabalhar com designs modernos e minimalistas. 🎨  
 
 ### 🌟 **Projetos de Destaque**
