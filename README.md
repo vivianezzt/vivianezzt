@@ -32,12 +32,6 @@ Olá! Meu nome é **Viviane**, uma desenvolvedora apaixonada por tecnologia, min
 - Atualmente, estou me especializando em desenvolvimento **fullstack** 
 - Tenho interesse especial em **desenvolvimento fullstack** e adoro trabalhar com designs modernos e minimalistas. 🎨  
 
-### 🌟 **Projetos de Destaque**
-- **Finance AI**: Sistema contábil educacional com integração Stripe e Clerk.  
-- **GM3R.Store**: Loja virtual de games desenvolvida durante um evento técnico.  
-- **DSMovie**: Catálogo de filmes integrado a APIs externas.  
-- **FWS Barber**: Plataforma para conectar barbearias e permitir agendamentos via WhatsApp.  
-
 
 ## 🌐 My Social Networks
 
