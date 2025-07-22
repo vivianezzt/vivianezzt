@@ -1,49 +1,72 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a928e7&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a928e7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Viviane+Aguiar;I'm+40+years+old;I+am+from+Juiz+de+Fora,+MG;I+developer+Fullstack+;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a928e7&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=a928e7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Viviane+Aguiar;Sou+Desenvolvedora+Fullstack;Especializada+em+Soluções+Web+e+Arquitetura+de+Software)](https://git.io/typing-svg)
 
 ## 👩‍💻 Sobre Mim
 
-Olá! Meu nome é **Viviane**, uma desenvolvedora apaixonada por tecnologia, minimalismo e criação de soluções práticas para problemas complexos. 🌱  
+Sou **Viviane Aguiar**, desenvolvedora **Fullstack** com forte atuação em soluções web modernas, arquitetura de sistemas e práticas de desenvolvimento profissional. Com sólida formação técnica e constante busca por aperfeiçoamento, atuo no desenvolvimento de aplicações robustas, performáticas e com design limpo.
 
-### 🎓 **Formação Acadêmica**
-- 📜 **Análise e Desenvolvimento de Sistemas** – Concluído.  
-- 🎓 **Bacharelado em Engenharia de Software** – Em andamento.  
-- 📚 **Pós-Graduação em Arquitetura e Desenvolvimento de Sistemas com Ênfase em Padrões de Projetos** – Cursando.  
+💡 Tenho interesse especial em **Clean Architecture**, **padrões de projeto**, **DevOps**, além de observabilidade com **Prometheus**, **Grafana** e **OpenTelemetry**. Sou entusiasta de sistemas Linux e apaixonada por transformar ideias complexas em soluções intuitivas.
 
-### 🛠️ **Habilidades Técnicas**
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Sass, Styled-components, TailwindCss.  
-- **Backend**: Node.js, Nest.js, Express, Prisma, Java.  
-- **Bancos de Dados**: PostgreSQL, MongoDB, SQLite.  
-- **DevOps**: Docker, CI/CD, Git.  
-- **Outras Linguagens**: Java, Golang.  
-- **Ferramentas e Práticas**: Agile/Scrum, TDD, Linux, ESLint, Husky.  
+---
 
-### 🎓 **Formação Complementar**
-- **Onebitecode**: Curso de desenvolvimento web fullstack.  
-- **Formação Fullstack Java** (EBAC).  
-- **Fullstack Club** (Felipe Rocha).  
-- **Formação Dev** (Leonardo Leitão).  
+### 🎓 Formação Acadêmica
 
-### 💡 **O Que Me Move**
-- Sou apaixonada por explorar novas tecnologias, criar soluções eficientes e colaborar em projetos que impactam positivamente a vida das pessoas.  
-- Atualmente, estou me especializando em desenvolvimento **fullstack** 
-- Tenho interesse especial em **desenvolvimento fullstack** e adoro trabalhar com designs modernos e minimalistas. 🎨  
+- ✅ Tecnólogo em **Análise e Desenvolvimento de Sistemas**  
+- 🏗️ **Engenharia de Software** – Bacharelado (em andamento)  
+- 📐 Pós-graduação em **Arquitetura de Sistemas com Ênfase em Padrões de Projeto**
+- 📐 MBA em **MBA em Arquitetura Full Cycle** 
 
+---
 
-## 🌐 My Social Networks
+### 📚 Formação Complementar
+
+- **Onebitecode** – Trilha Fullstack Web com foco em aplicações EAD escaláveis  
+- **EBAC** – Formação Fullstack Java com projetos frontend (eFood) e backend com Spring  
+- **Formação Dev (Leonardo Leitão)** – Stack TypeScript com projetos como Barba Brutal, GamerStore e Convite Digital  
+- **Fullstack Club (Felipe Rocha)** – Projetos como Finance AI, Portfolio com Agentes IA e Nest.js  
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+**Frontend:**  
+HTML, CSS, Sass, Styled-components, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Vue.js  
+
+**Backend:**  
+Node.js, NestJS, Express, Prisma, Java (Spring Boot), Go (em aprendizado)  
+
+**Banco de Dados:**  
+PostgreSQL, MongoDB, SQLite  
+
+**DevOps & Arquitetura:**  
+Docker, GitHub Actions, CI/CD, Git, Linux, Husky, ESLint  
+
+**Observabilidade & Microsserviços:**  
+Prometheus, Grafana, gRPC, Apache Kafka, Kubernetes (em aprendizado)
+
+---
+
+### 🚀 O que me move
+
+- Gosto de aprender, ensinar e resolver problemas reais com código.  
+- Estou sempre buscando evoluir como arquiteta de software, com olhar crítico para qualidade, performance e boas práticas.  
+- Faço questão de aplicar workflows Git profissionais em meus projetos, com issues, commits semânticos, PRs e documentação bem organizada.  
+
+---
+
+## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivianezzt/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivianezzt)  
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zztsilva04)  
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521967380550)  
-  
- 
 
-## Tecnologies
+---
+
+## ⚙️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -59,6 +82,7 @@ Olá! Meu nome é **Viviane**, uma desenvolvedora apaixonada por tecnologia, min
     <img align="center" alt="PostgreSQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Go" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
     <img align="center" alt="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
@@ -66,16 +90,4 @@ Olá! Meu nome é **Viviane**, uma desenvolvedora apaixonada por tecnologia, min
     <img align="center" alt="Prisma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
 </div>
 
-
-
-
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{VivianeSilva}/count.svg" /></p> 
-<br></div>
+---
